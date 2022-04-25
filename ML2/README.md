@@ -14,7 +14,7 @@ La herramienta Databrick y su integración con MLflow permitió realizar una seg
 
 
 <p align="center" float="left" justify-content="center">
-    <img src="image/mlflow.png
+    <img src="./image/mlflow.png
     " alt="mlflow" class="center"/>
 </p>
 
@@ -28,7 +28,7 @@ Se probaron diferentes técnicas de optimización de hyperparametros con el fin 
 La librería [Hyperopt](http://hyperopt.github.io/hyperopt/) permite definir un espacio de búsqueda de hyperparametros a optimizar:
 
 <p align="center" float="left" justify-content="center">
-    <img src="image/espacio.png
+    <img src="./image/espacio.png
     " alt="espacio" class="center"/>
 </p>
 
@@ -36,7 +36,7 @@ Se define el número de evaluación en conjunto con la función de optimizacion:
 
 
 <p align="center" float="left" justify-content="center">
-    <img src="image/hyperopt.png
+    <img src="./image/hyperopt.png
     " alt="dbricks_aps_experiment" class="center"/>
 </p>
 
@@ -50,7 +50,7 @@ La librería Tpot es una librería que se encarga de realizar autoML utilizando 
 El resultado de la optimización con Tpop nos permitió obtener el mejor clasificador posible:
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/tpot.png" alt="tpot" class="center"/>
+    <img src="./image/tpot.png" alt="tpot" class="center"/>
 </p>
 
 #### GridSearch:
@@ -58,24 +58,24 @@ El resultado de la optimización con Tpop nos permitió obtener el mejor clasifi
 El método de [Gridsearchcv](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) es parte de la librería de Ski-learn el cual permite realizar una busqueda intensiva de hyperparametros en un espacio definido:
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/gridsearch.png" alt="tpot" class="center"/>
+    <img src="./image/gridsearch.png" alt="tpot" class="center"/>
 </p>
 
 ## 3. Puesta en producción del modelo:
 Una vez optimizados los hyperparametros del modelo el mismo es exportado como pkl y subido a un bucket S3 de AWS para ser consumido:
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/modelo.png" alt="modelo" class="center"/>
+    <img src="./image/modelo.png" alt="modelo" class="center"/>
 </p>
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/export.png" alt="modelo" class="center"/>
+    <img src="./image/export.png" alt="modelo" class="center"/>
 </p>
 
 ## 4. Creación API AWS:
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/gunicorn.png" alt="gunicorn" class="center"/>
+    <img src="./image/gunicorn.png" alt="gunicorn" class="center"/>
 </p>
 
 La idea es disponibilizar un EndPoint en producción utilizando Flask como Web service, Gunicorn como servidor Gataway y Nginx como servidor proxy.
@@ -85,21 +85,21 @@ La idea es disponibilizar un EndPoint en producción utilizando Flask como Web s
 Flask es un marco web de Python pequeño y ligero que proporciona herramientas y funciones útiles que hacen que crear aplicaciones web en Python sea más fácil.
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/flask.png" alt="gunicorn" class="center"/>
+    <img src="./image/flask.png" alt="gunicorn" class="center"/>
 </p>
 
 #### Gunicorn:
 Gunicorn es un servidor WSGI son las siglas de Web Server Gateway Interface. Es una especificación que describe cómo se comunica un servidor web con una aplicación web, y cómo se pueden llegar a encadenar diferentes aplicaciones web para procesar una solicitud/petición (o request).
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/wsgi.png" alt="gunicorn" class="center"/>
+    <img src="./image/wsgi.png" alt="gunicorn" class="center"/>
 </p>
 
 #### Request API:
 Una vez que nuestro servicio se encuentra levantado nos da la posibilidad de realizar request HTTP Post para obtener resultados:
 
 <p align="center" float="left" justify-content="center">
-    <img src="/image/api.png" alt="api" class="center"/>
+    <img src="./image/api.png" alt="api" class="center"/>
 </p>
 
 ---
