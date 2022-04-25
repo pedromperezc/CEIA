@@ -1,4 +1,4 @@
-![](image/logoFIUBA.png)
+[![](image/logoFIUBA.png)
 
 # Machine Learning 2 (ML)
 
@@ -14,8 +14,7 @@ La herramienta Databrick y su integración con MLflow permitió realizar una seg
 
 
 <p align="center" float="left" justify-content="center">
-    <img src="./image/mlflow.png
-    " alt="mlflow" class="center"/>
+    <img src="./image/mlflow.png" alt="mlflow" class="center"/>
 </p>
 
 ## 2. Tunning Hyperparametros:
@@ -28,16 +27,14 @@ Se probaron diferentes técnicas de optimización de hyperparametros con el fin 
 La librería [Hyperopt](http://hyperopt.github.io/hyperopt/) permite definir un espacio de búsqueda de hyperparametros a optimizar:
 
 <p align="center" float="left" justify-content="center">
-    <img src="./image/espacio.png
-    " alt="espacio" class="center"/>
+    <img src="./image/espacio.png" alt="espacio" class="center"/>
 </p>
 
 Se define el número de evaluación en conjunto con la función de optimizacion:
 
 
 <p align="center" float="left" justify-content="center">
-    <img src="./image/hyperopt.png
-    " alt="dbricks_aps_experiment" class="center"/>
+    <img src="./image/hyperopt.png" alt="dbricks_aps_experiment" class="center"/>
 </p>
 
 #### Tpot:
@@ -110,4 +107,4 @@ Pedro Miguel Pérez
 ## Contacto 📌
 Contact me by mail _pedromperezc@gmail.com_ or by my personal [LinkedIn](https://www.linkedin.com/in/pedromiguelperez/)
 
----
+---]()
