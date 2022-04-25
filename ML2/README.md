@@ -106,5 +106,3 @@ Pedro Miguel Pérez
 
 ## Contacto 📌
 Contact me by mail _pedromperezc@gmail.com_ or by my personal [LinkedIn](https://www.linkedin.com/in/pedromiguelperez/)
-
----]()
