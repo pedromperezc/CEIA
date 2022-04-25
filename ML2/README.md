@@ -62,7 +62,7 @@ El método de [Gridsearchcv](https://scikit-learn.org/stable/modules/generated/s
 Una vez optimizados los hyperparametros del modelo el mismo es exportado como pkl y subido a un bucket S3 de AWS para ser consumido:
 
 <p align="center" float="left" justify-content="center">
-    <img src="./image/modelo.png" alt="modelo" class="center"/>
+    <img src="./image/modelo.PNG" alt="modelo" class="center"/>
 </p>
 
 <p align="center" float="left" justify-content="center">
