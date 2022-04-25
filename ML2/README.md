@@ -8,9 +8,9 @@ _Este repositorio contiene el código correspondiente al proyecto final de la as
 
 ## 1. Análisis y procesamiento:
 
-En esta etapa se realiza el análisis exploratorio y procesamiento de los datos. Todas las métricas fueron registradas utilizando la herramienta MLFlow. [TP_Final_ML_2_Exploracion.ipynb](notebook/TP_Final_ML_2_Exploracion.ipynb)).
+En esta etapa se realiza el análisis exploratorio y procesamiento de los datos. Todas las métricas fueron registradas utilizando la herramienta MLFlow. [TP_Final_ML_2_Exploracion.ipynb](notebook/TP_Final_ML_2_Exploracion.ipynb).
 
-La herramienta Databrick y su integración con MLflow permitió realizar una seguimiento de todas las métricas y crear un experimento en la cual se pudieran almacenar las mismas con el respectivo modelo:
+La herramienta Databrick y su integración con MLflow permitió realizar un seguimiento de todas las métricas y crear un experimento en la cual se pudieran almacenar las mismas con el respectivo modelo:
 
 
 <p align="center" float="left" justify-content="center">
