@@ -1,3 +1,4 @@
+[![](imagen/nlp.jpg)
 # Procesamiento del Lenguaje natural
 Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para NLP (CEIA - FIUBA)
 
