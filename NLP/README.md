@@ -10,9 +10,6 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Introducción a NLP (natural language programing)
 * Vectorización de documentos
 
-<p align="center" float="left" justify-content="center">
-    <img src="./imagen/word2vec.jpg" alt="word2vec" class="center"/>
-</p>
 
 ### [Clase 2](Desafio_2_Bot_DNN_Spacy_esp.ipynb) 
 * Tokenización de documentos.
