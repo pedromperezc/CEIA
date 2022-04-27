@@ -28,7 +28,17 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * One-to-many.
 * Text prediction
 
+### [Clase 5](Desafio_6_Bot_seq_to_seq.ipynb) 
+* Sequence to sequence.
+* Traductores y bots conversacionales.
 
 # Profesores
 :octocat: Msc. Rodrigo Cardenas Szigety\
 :octocat: Esp. Ing. Hernán Contigiani
+
+
+## Autor  ✒️
+Pedro Miguel Pérez
+
+## Contacto 📌
+Contacto por mail _pedromperezc@gmail.com_ o por mi linkedin personal [LinkedIn](https://www.linkedin.com/in/pedromiguelperez/)
