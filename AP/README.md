@@ -5,7 +5,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ## Contenido:
 
-### [Desafío 1](Desafío_1.ipynb) 
+### [Trabajo práctico 1](Desafío_1.ipynb) 
 * Introducción a las redes neuronales.
 * XNOR con Numpy.
 
