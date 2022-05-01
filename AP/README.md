@@ -1,5 +1,5 @@
 # Aprendizaje profundo
-Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para NLP (CEIA - FIUBA)
+Este repositorio contiene el material de clases (presentaciones, ejercicios y notebooks) para aprendizaje profundo (CEIA - FIUBA)
 
 ---
 
