@@ -9,6 +9,11 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Introducción a las redes neuronales.
 * XNOR con Numpy.
 
+### [Trabajo práctico 2](Desafío_2.ipynb) 
+* Optimización.
+* Stochastic Gradient Descent.
+* Mini Batch Gradient Descent. 
+
 
 
 # Profesores
