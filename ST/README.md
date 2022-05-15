@@ -4,10 +4,11 @@
 
 ## Contenido:
 
-### [Trabajo práctico 1](clase_1.ipynb) 
+### [Trabajo práctico 1](clase_1/clase_1.ipynb) 
 * Descripción gráfica de una serie temporal.
 
-
+### [Trabajo práctico 2](clase_3/clase_3.ipynb) 
+* Selección dataset TP final.
 
 
 ## Autor  ✒️
