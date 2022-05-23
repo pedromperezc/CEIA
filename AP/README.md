@@ -14,7 +14,10 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Stochastic Gradient Descent.
 * Mini Batch Gradient Descent. 
 
+### [Trabajo práctico 3](Desafio_3.ipynb) 
 
+* Introducción a PyTorch
+* PyTorch y Redes Neuronales
 
 # Profesores
 :octocat: Ing. Ezequiel Esposito\
