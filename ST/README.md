@@ -10,6 +10,9 @@
 ### [Trabajo práctico 2](clase_3/clase_3.ipynb) 
 * Selección dataset TP final.
 
+### [Trabajo final](TP_Final.ipynb)
+
+
 
 ## Autor  ✒️
 :octocat: Pedro Miguel Pérez
