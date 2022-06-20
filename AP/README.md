@@ -16,8 +16,17 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ### [Trabajo práctico 3](Desafio_3.ipynb) 
 
-* Introducción a PyTorch
-* PyTorch y Redes Neuronales
+* Introducción a PyTorch.
+* PyTorch y Redes Neuronales.
+
+### [Trabajo práctico 4](Desafio_4.ipynb) 
+
+* Redes convolucionales.
+
+### [Trabajo práctico 5](Desafio_5.ipynb) 
+
+* Redes recurrentes.
+
 
 # Profesores
 :octocat: Ing. Ezequiel Esposito\
