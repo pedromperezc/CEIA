@@ -32,7 +32,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 * Autoencoders.
 
 
-# Profesores
+# Profesores 👨‍🏫
 :octocat: Ing. Ezequiel Esposito\
 :octocat: Ing. Lautaro Delgado\
 :octocat: Ing. Marcos Maillot
