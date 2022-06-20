@@ -27,6 +27,10 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 * Redes recurrentes.
 
+### [Trabajo práctico Clase 7](Defafio_6.ipynb) 
+
+* Autoencoders.
+
 
 # Profesores
 :octocat: Ing. Ezequiel Esposito\
