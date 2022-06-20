@@ -5,25 +5,25 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 ## Contenido:
 
-### [Trabajo práctico 1](Desafío_1.ipynb) 
+### [Trabajo práctico Clase 1 ](Desafío_1.ipynb) 
 * Introducción a las redes neuronales.
 * XNOR con Numpy.
 
-### [Trabajo práctico 2](Desafío_2.ipynb) 
+### [Trabajo práctico Clase 2 ](Desafío_2.ipynb) 
 * Optimización.
 * Stochastic Gradient Descent.
 * Mini Batch Gradient Descent. 
 
-### [Trabajo práctico 3](Desafio_3.ipynb) 
+### [Trabajo práctico Clase 3](Desafio_3.ipynb) 
 
 * Introducción a PyTorch.
 * PyTorch y Redes Neuronales.
 
-### [Trabajo práctico 4](Desafio_4.ipynb) 
+### [Trabajo práctico Clase 5](Desafio_4.ipynb) 
 
 * Redes convolucionales.
 
-### [Trabajo práctico 5](Defafio_5.ipynb) 
+### [Trabajo práctico Clase 6](Defafio_5.ipynb) 
 
 * Redes recurrentes.
 
