@@ -23,7 +23,7 @@ Este repositorio contiene el material de clases (presentaciones, ejercicios y no
 
 * Redes convolucionales.
 
-### [Trabajo práctico Clase 6](Defafio_5.ipynb) 
+### [Trabajo práctico Clase 6](Desafio_5.ipynb) 
 
 * Redes recurrentes.
 
